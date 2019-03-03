@@ -1,7 +1,8 @@
 # ggaarder.github.io
 My Blog
 
-## Wish List
+Todos
+[ ] merge y\*\*\*h0.github.io
 
 [ ] 2018-04-05 View Raw/History: Link to glog repo
 [ ] 2018-04-05 Render Equations in Markdown to MathML
